@@ -26,6 +26,7 @@ Laravel Shopping Cart is a full stack implementation of a web-based shopping car
   * Update product quantity 
 
 * **Checkout**
+  * Session based
   * Create order and empty cart
   * View past orders
 
@@ -36,16 +37,16 @@ Laravel Shopping Cart is a full stack implementation of a web-based shopping car
 * _View past orders (multiple)_
 
 ## Getting Started
-To run a full stack project, you need both front-end and back-end applications, along with a database to store your data.
+To run a full stack project, you need both front-end and back-end applications, and a database to store your data.
 
-To get a local copy of my project up and running, follow these steps.
+To run a local copy of my project, follow these steps.
 
 ### Prerequisites
 Download and install the following:
-* Laravel
-* PHP and Composer
-* XAMPP
-* Node.js and NPM
+* [Laravel](https://herd.laravel.com/windows)
+* [Composer](https://getcomposer.org/)
+* [XAMPP](https://www.apachefriends.org/download.html)
+* [Node.js](https://nodejs.org/en/download)
 
 ## Installation
 [Laravel's Installation Guide](https://laravel.com/docs/11.x/installation#creating-an-application)
